@@ -1,3 +1,11 @@
 button {
     text-align: center;
 }
+
+.redPTag {
+    color: red;
+}
+
+.bluePTag {
+    color: blue;
+}
